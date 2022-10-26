@@ -27,6 +27,11 @@ nav a{
 
 }
 
+nav a:hover{
+	color: red;
+	text-decoration: underline;
+}
+
 .produtos{
 	width : 1920px;
 	margin: 0 auto;
@@ -43,4 +48,19 @@ nav a{
 	vertical-align: top;
 	padding: 30px 20px;
 	box-sizing: border-box;
+	border-color: black;
+	border-width: 10px;
+}
+
+.produtos li:hover{
+	border-color: red;
+	font-size: 25px;
+	border-radius: 50px;
+	
+}
+footer{
+    background: black;
+}
+.livros{
+	Color: red;
 }
