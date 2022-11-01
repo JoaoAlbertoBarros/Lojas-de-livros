@@ -60,7 +60,11 @@ nav a:hover{
 }
 footer{
     background: black;
+	padding: 0;
+	text-align: left;
 }
 .livros{
-	Color: red;
+	color: red;
+	font-size: 25;
+	margin: 20px 0 20px;
 }
